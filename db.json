@@ -1,0 +1,23 @@
+{
+  "subscriptions": [
+    {
+      "id": "o6algk",
+      "url": "https://www.vinted.fr/vetements?search_text=air%20force%201%20react%20light%20bone&size_id[]=790",
+      "channelID": "900269369874083853"
+    },
+    {
+      "id": "f13tjh",
+      "url": "https://www.vinted.fr/vetements?search_text=tn&size_id[]=790&catalog[]=5",
+      "channelID": "900269369874083853"
+    },
+    {
+      "id": "9am2qj",
+      "url": "https://www.vinted.fr/vetements?search_text=jogging%20sergio%20tacchini&size_id[]=210",
+      "channelID": "900269369874083853"
+    }
+  ],
+  "last_item_ts_o6algk": 1633957091000,
+  "last_item_ts_f13tjh": 1634841651000,
+  "is_first_sync": false,
+  "last_item_ts_9am2qj": 1634841031000
+}
